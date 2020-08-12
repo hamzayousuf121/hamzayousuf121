@@ -1,6 +1,6 @@
 ### Hi there, I'm Hamza Yousuf [E-Portfolio][website] 👋
 
-## I'm a Son, Brother, Developer, open source Contributor and Student!
+## I'm Son, Brother, Developer, Open Source Contributor and Student!
 - 🔭 I’m currently working in [Cyebein Company][cybeincwebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
