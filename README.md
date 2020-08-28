@@ -1,7 +1,7 @@
 ### Hi there, I'm Hamza Yousuf [E-Portfolio][website] 👋
 
 ## I'm Student, Developer and Open Source Contributor!
-- 🔭 I’m currently working in [Cyebein Company][cybeincwebsite]!
+- 🔭 I’m currently working in [Cybein Company][cybeincwebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
