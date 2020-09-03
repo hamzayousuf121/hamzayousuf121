@@ -45,6 +45,8 @@
 
 <img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzayousuf121&layout=compact&theme=radical&hide_border=false" />
 
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+
 [website]: https://sites.google.com/view/hamzaeportfolio
 [cybeincwebsite]: https://cybeinc.com/
 [twitter]: https://twitter.com/HamzaYo62781878
