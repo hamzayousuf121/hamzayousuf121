@@ -40,6 +40,9 @@
 <br />
 <br />
 <img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hamzayousuf121&show_icons=true&theme=radical&hide_border=false" />
+<br />
+<br />
+<img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzayousuf121&layout=compact" />
 
 [website]: https://sites.google.com/view/hamzaeportfolio
 [cybeincwebsite]: https://cybeinc.com/
