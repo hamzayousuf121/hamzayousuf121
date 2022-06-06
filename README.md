@@ -42,8 +42,8 @@
 <br />
 <br />
 <img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzayousuf121&layout=compact&theme=radical&hide_border=false" />
-<img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzayousuf121&show_icons=true&theme=radical" />
-<img height="300" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img align="right" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzayousuf121&show_icons=true&theme=radical&hide_border=false" />
+<img height="250" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 [website]: https://sites.google.com/view/hamzaeportfolio
 [cybeincwebsite]: https://cybeinc.com/
