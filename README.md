@@ -3,7 +3,7 @@
 ## I'm Student, Developer and Open Source Contributor!
 - 🔭 I’m currently working in Treasury cube!
 - 🌱 I’m currently learning web 3.0
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn new technology
+- 🥅 2023 Goals: Contribute more to Open Source projects and learn new technology
 - ⚡ Fun fact: I love to play Cricket, Music and Outing with Friends
 
 ### Connect with me:
